@@ -8,6 +8,7 @@ function nowServing(katzDeli) {
     var nowServing = katzDeli[0]
     katzDeli.shift()
     return `Currently serving ${nowServing}.`
-    
+} else {
+  
   }
 }
