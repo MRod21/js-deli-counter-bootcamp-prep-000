@@ -7,6 +7,6 @@ function nowServing(katzDeli) {
   if (katzDeli.length > 0) {
     var nowServing = katzDeli[0]
     katzDeli.shift()
-    return `Curr
+    return `Currently serving ${nowServing}
   }
 }
