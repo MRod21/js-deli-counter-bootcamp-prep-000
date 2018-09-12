@@ -18,6 +18,6 @@ function currentLine(line) {
     return `The line is currently empty.`
   } else {
     var array = []
-    for (var = i, )
+    for (var = i, i < line.length)
   }
 }
