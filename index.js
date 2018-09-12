@@ -19,7 +19,7 @@ function currentLine(line) {
   } else {
     var array = []
     for (var = i; i < line.length; i++) {
-      array.push(`)
+      array.push(` ${i)
     }
   }
 }
