@@ -21,5 +21,6 @@ function currentLine(line) {
     for (var = i; i < line.length; i++) {
       array.push(` ${i+1}. ${line[i]}`)
     }
+    return `The line
   }
 }
